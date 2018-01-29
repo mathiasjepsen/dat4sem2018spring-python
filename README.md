@@ -14,7 +14,7 @@ Find a detailed description of the plan and the curriculum for the semester here
 
 The easiest way to work with the notebooks in this repository is to run it in a container on [MyBinder](https://mybinder.org).
 
-**Click here:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/datsoftlyngby/dat4sem2018spring-python/master) to start an interactive environment.
+**Click here:** [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/HelgeCPH/dat4sem2018spring-python/master) to start an interactive environment.
 
 
 ## I want to work with the course material on my machine.
