@@ -25,10 +25,7 @@ def talk_to_me():
     while True:
         statement = input("> ")
         print(analyze(statement))
-
-        # if statement == "quit":
-        #     break
-
+        
 
 if __name__ == "__main__":
     talk_to_me()
