@@ -74,7 +74,7 @@ Likely it is best to fork this repository on GitHub (`Fork` button on the top ri
 
   * Clone the repository:
   ```bash
-  $ git clone git@github.com:<yourghuser>/soft2018spring-databases-teaching-material.git
+  $ git clone git@github.com:<yourghuser>/dat4sem2018spring-python.git
   ```
   * **Hint** In case you want to modify the configuration of the virtual machine, which will be created, you can do this now. Edit it with an editor of your choice. For example, to give the VM more RAM adapt the line `vb.memory = "3072"` to a value of RAM in megabyte, which fits your host machine.
   * Start-up the VM:
